@@ -17,7 +17,7 @@ public class project extends JFrame implements ActionListener, ItemListener, Mou
   private JToolBar tool_bar = new JToolBar();
   private JToolBar tool_bar_bottom = new JToolBar();
 
-  private JButton button_save = new JButton();
+  
   private JButton button_open = new JButton();
   private JButton button_new = new JButton();
   private JButton button_close = new JButton();
